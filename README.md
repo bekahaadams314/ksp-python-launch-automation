@@ -1,5 +1,5 @@
 # KSP: Python Launch Automation & Orbital Mechanics
-A project that utilizes Python to automate launch sequences and navigate orbital mechanics within Kerbal Space Program (KSP), a gspaceflight simulator and sandbox game where you can create rockets and launch them! This repository bridges the gap between theoretical physics and applied systems engineering by programmatically controlling spacecraft to achieve stable orbits.
+A project that utilizes Python to automate launch sequences and navigate orbital mechanics within Kerbal Space Program (KSP), a spaceflight simulator and sandbox game where you can create rockets and launch them! This repository bridges the gap between theoretical physics and applied systems engineering by programmatically controlling spacecraft to achieve stable orbits.
 
 The primary goal is to move beyond manual piloting and utilize mathematical modeling, continuous mathematics, and automation logic to optimize ascent trajectories, manage staging, and execute precise gravity turns. What once started as a simple project to enhance the gaming experience became something bigger. 
 
