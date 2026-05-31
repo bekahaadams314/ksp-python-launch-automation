@@ -3,8 +3,8 @@ import krpc
 # connection to the server 
 conn = krpc.connect(
     name='Recovery',
-    address='192.168.1.138',
-    rpc_port=50000, stream_port=50001)
+    address='',
+    rpc_port=xxx, stream_port=xxx)
 print(conn.krpc.get_status().version)
 
 # Get the active vessel
